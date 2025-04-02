@@ -2,10 +2,6 @@
 
 An innovative AI-powered solution addressing critical challenges in modern agriculture through intelligent automation and data-driven insights.
 
-[![Watch the Demo](https://img.shields.io/badge/Watch-Demo-red)](https://youtu.be/6DbD4OcNRsc)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-[![Devfolio](https://img.shields.io/badge/Devfolio-Overview-blue)](https://devfolio.co/projects/agrismart-0794)
-
 ## 🎯 Problem Statement
 
 Modern agriculture faces numerous challenges that impact food security and sustainability:
@@ -122,36 +118,6 @@ ai-farming-support/
     ├── livestock/
     └── security/
 ```
-
-## 🎥 Demo
-
-Watch our video demonstration: [AI-Driven Farming Support Demo](https://youtu.be/6DbD4OcNRsc)
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-1. Fork the repository
-2. Create your feature branch
-3. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Team
-
-- Project Lead: [Your Name]
-- ML Engineers: [Team Members]
-- Agricultural Experts: [Team Members]
-- Frontend Developers: [Team Members]
-
-## 📞 Support
-
-For support, please:
-- Open an issue
-- Contact us at: support@aifarming.tech
-- Join our Discord community
 
 ## 🙏 Acknowledgments
 
